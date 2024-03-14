@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Learnings", "Csharp-Learnings\Csharp-Learnings.csproj", "{BCB762AC-74E4-4329-8A4A-5C97FC878926}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{BCB762AC-74E4-4329-8A4A-5C97FC878926}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
