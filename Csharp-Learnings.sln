@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{BCB762AC-74E4-4329-8A4A-5C97FC878926}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCodes", "RandomCodes\RandomCodes.csproj", "{512DD41B-B894-40D5-9F1E-8BDAE8E60482}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{BCB762AC-74E4-4329-8A4A-5C97FC878926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCB762AC-74E4-4329-8A4A-5C97FC878926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCB762AC-74E4-4329-8A4A-5C97FC878926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512DD41B-B894-40D5-9F1E-8BDAE8E60482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512DD41B-B894-40D5-9F1E-8BDAE8E60482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512DD41B-B894-40D5-9F1E-8BDAE8E60482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512DD41B-B894-40D5-9F1E-8BDAE8E60482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
