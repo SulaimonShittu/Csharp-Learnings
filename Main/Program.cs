@@ -69,7 +69,7 @@ public class StudentRecord
 {
     public int StudentId { get; set; }
     public int EnglishScore { get; set; }
-    public char EnglishGrade;
+    public char EnglishGrade { get; set; }
     public int MathsScore { get; set; }
-    public char MathsGrade;
+    public char MathsGrade {get; set; }
 }
