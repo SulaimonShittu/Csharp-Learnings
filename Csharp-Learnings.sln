@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{BCB762AC-74E4-4329-8A4A-5C97FC878926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCodes", "RandomCodes\RandomCodes.csproj", "{512DD41B-B894-40D5-9F1E-8BDAE8E60482}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{512DD41B-B894-40D5-9F1E-8BDAE8E60482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

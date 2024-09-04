@@ -1,5 +1,4 @@
 namespace Csharp_Learnings.Algorithms.SortingAlgorithms;
-
 public static class BubbleSort
 {
     public static void Sort(params int[] list)
@@ -14,7 +13,6 @@ public static class BubbleSort
                 }
             }
         }
-
         Console.WriteLine(String.Join(',', list));
     }
 }

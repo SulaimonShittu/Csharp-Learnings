@@ -1,5 +1,4 @@
 namespace Csharp_Learnings.Algorithms.SortingAlgorithms;
-
 public static class SelectionSort
 {
     public static void Sort(int[] unsortedNumbers)
