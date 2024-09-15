@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Al
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{512DD41B-B894-40D5-9F1E-8BDAE8E60482}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{21EFF288-0F5B-4373-B667-CB37A1E60653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{512DD41B-B894-40D5-9F1E-8BDAE8E60482}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{512DD41B-B894-40D5-9F1E-8BDAE8E60482}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{512DD41B-B894-40D5-9F1E-8BDAE8E60482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EFF288-0F5B-4373-B667-CB37A1E60653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EFF288-0F5B-4373-B667-CB37A1E60653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EFF288-0F5B-4373-B667-CB37A1E60653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EFF288-0F5B-4373-B667-CB37A1E60653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
