@@ -30,4 +30,14 @@ int multiply = 3 * 6;
 Console.WriteLine(@$"Addition : {sum}, Subtraction : {minus}, Division : {divide}, Multiplication : {multiply}");
 
 
-                     
+//Float and double
+float myFloat;
+myFloat = 4.5f;
+Double myDouble = 8.8d;
+
+double floatSum = 4.3f + 2.3f;
+double floatMinus = 9.3f - 4.3f;
+double floatDivide = 9.9d / 3.5d;
+double floatMultiply = 3.4d * 3.2f;
+
+Console.WriteLine(@$"Addition : {floatSum}, Subtraction : {floatMinus}, Division : {floatDivide}, Multiplication : {floatMultiply}");
