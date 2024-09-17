@@ -70,4 +70,20 @@ Console.WriteLine($"False or False : {fof}");
 Console.WriteLine($"Not True : {notTrue}");
 Console.WriteLine($"Not false : {notFalse}");
 
+//DateTime
+
+DateTime myDateTime;
+DateOnly myDate;
+TimeOnly myTime;
+
+myDateTime = DateTime.Now;
+myDate = new DateOnly(2004, 4, 26);
+myTime = new TimeOnly( 8, 23, 34);
+
+Console.WriteLine(myDateTime);
+Console.WriteLine(myDate);
+Console.WriteLine(myTime);
+
+myDateTime = new DateTime(myDate, myTime);
+Console.WriteLine(myDateTime);
 
