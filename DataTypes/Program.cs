@@ -12,7 +12,7 @@ MyString = "Hello, I am";
 string name = Console.ReadLine();
 Console.WriteLine(MyString + " " + name);
 
-Console.WriteLine(name.Length);
+Console.WriteLine("Your name has " + name.Length + " Characters");
 
 //integers
 
