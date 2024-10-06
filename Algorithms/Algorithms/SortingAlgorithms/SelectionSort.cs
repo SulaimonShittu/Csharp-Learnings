@@ -2,7 +2,7 @@ namespace Csharp_Learnings.Algorithms.SortingAlgorithms;
 public static class SelectionSort
 {
     public static void Sort(int[] unsortedNumbers)
-    {
+    {   
         for (int i = 0; i < unsortedNumbers.Length - 1; i++)
         {
             int smallest = unsortedNumbers[i];
